@@ -1,4 +1,3 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
 	url = https://github.com/sdoqwer1poiu/hbb_common
-	commit = c76947c81e66cdaae5b01d9b6ac3944c7214aa75
